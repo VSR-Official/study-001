@@ -1,1 +1,57 @@
+Git
+GitHub
+Sublime Text
+Visual Studio Code
+Visual Studio
+Postman
+HyperText Markup Language
+Cascading Style Sheets
+React
+Node.js
+Next.js
+Express
+Eclipse
+Python
+Java
+JavaScript
+TypeScript
+Webstorm
+CLion
+Warp
+Oracle VirtualBox
+DataGrip
+Structured Query Language
+MySQL
+SQLite
+PostgreSQL
+MongoDB
+MongoDB Atlas
+MongoDB Compass
+C
+C++
+C#
+Kotlin
+Dart
+Flutter
+Go
+Swift
+Windows Command Prompt
+Powershell
+Windows Powershell
+Termux
+Vim
+Linux
+Arch Linux
+Ubuntu
+Garuda Linux
+Linux Mint
+Kali Linux
+    hydra
+    nmap
+    wireshark
+    metasploit-framework
+    wifite
+    gobuster
+    aircrack-ng
+    bloodhound
 
